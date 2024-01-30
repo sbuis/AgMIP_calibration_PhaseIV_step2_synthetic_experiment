@@ -8,7 +8,7 @@
 #
 # Before running this script, download first the STICS soil-crop model version 8.5.0 (at https://eng-stics.paca.hub.inrae.fr/)
 # and set the corresponding installation path in the variable javastics_path, line 75 of this script.
-# Then open AgMIP-Calibration-Phase-IV.Rproj in Rstudio and run this script.
+# Then open AgMIP_calibration_PhaseIV_step2_synthetic_experiment.Rproj in Rstudio and run this script.
 #
 # There are many different options in this script. They have been set to the value used 
 # for the application described in https://www.biorxiv.org/content/10.1101/2023.10.26.564162v2.full.pdf.
