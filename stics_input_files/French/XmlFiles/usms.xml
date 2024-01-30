@@ -1,0 +1,1764 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<usms>
+  <usm nom="Site1-culA-12-tec13">
+    <datedebut>213</datedebut>
+    <datefin>731</datefin>
+    <finit>Site1-culA-12-tec13_ini.xml</finit>
+    <nomsol>soil1</nomsol>
+    <fstation>sta1_sta.xml</fstation>
+    <fclim1>sta1.2011</fclim1>
+    <fclim2>sta1.2012</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec13_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site1-culB-12-tec13">
+    <datedebut>213</datedebut>
+    <datefin>731</datefin>
+    <finit>Site1-culB-12-tec13_ini.xml</finit>
+    <nomsol>soil1</nomsol>
+    <fstation>sta1_sta.xml</fstation>
+    <fclim1>sta1.2011</fclim1>
+    <fclim2>sta1.2012</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec13_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site1-culA-13-tec18">
+    <datedebut>214</datedebut>
+    <datefin>731</datefin>
+    <finit>Site1-culA-13-tec18_ini.xml</finit>
+    <nomsol>soil1</nomsol>
+    <fstation>sta1_sta.xml</fstation>
+    <fclim1>sta1.2012</fclim1>
+    <fclim2>sta1.2013</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec18_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site1-culB-13-tec18">
+    <datedebut>214</datedebut>
+    <datefin>731</datefin>
+    <finit>Site1-culB-13-tec18_ini.xml</finit>
+    <nomsol>soil1</nomsol>
+    <fstation>sta1_sta.xml</fstation>
+    <fclim1>sta1.2012</fclim1>
+    <fclim2>sta1.2013</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec18_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site1-culA-14-tec29">
+    <datedebut>213</datedebut>
+    <datefin>730</datefin>
+    <finit>Site1-culA-14-tec29_ini.xml</finit>
+    <nomsol>soil1</nomsol>
+    <fstation>sta1_sta.xml</fstation>
+    <fclim1>sta1.2013</fclim1>
+    <fclim2>sta1.2014</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec29_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site1-culB-14-tec29">
+    <datedebut>213</datedebut>
+    <datefin>730</datefin>
+    <finit>Site1-culB-14-tec29_ini.xml</finit>
+    <nomsol>soil1</nomsol>
+    <fstation>sta1_sta.xml</fstation>
+    <fclim1>sta1.2013</fclim1>
+    <fclim2>sta1.2014</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec29_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site1-culA-14-tec31">
+    <datedebut>213</datedebut>
+    <datefin>730</datefin>
+    <finit>Site1-culA-14-tec31_ini.xml</finit>
+    <nomsol>soil1</nomsol>
+    <fstation>sta1_sta.xml</fstation>
+    <fclim1>sta1.2013</fclim1>
+    <fclim2>sta1.2014</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec31_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site1-culB-14-tec31">
+    <datedebut>213</datedebut>
+    <datefin>730</datefin>
+    <finit>Site1-culB-14-tec31_ini.xml</finit>
+    <nomsol>soil1</nomsol>
+    <fstation>sta1_sta.xml</fstation>
+    <fclim1>sta1.2013</fclim1>
+    <fclim2>sta1.2014</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec31_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site1-culA-15-tec39">
+    <datedebut>213</datedebut>
+    <datefin>730</datefin>
+    <finit>Site1-culA-15-tec39_ini.xml</finit>
+    <nomsol>soil1</nomsol>
+    <fstation>sta1_sta.xml</fstation>
+    <fclim1>sta1.2014</fclim1>
+    <fclim2>sta1.2015</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec39_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site1-culB-15-tec39">
+    <datedebut>213</datedebut>
+    <datefin>730</datefin>
+    <finit>Site1-culB-15-tec39_ini.xml</finit>
+    <nomsol>soil1</nomsol>
+    <fstation>sta1_sta.xml</fstation>
+    <fclim1>sta1.2014</fclim1>
+    <fclim2>sta1.2015</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec39_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site2-culA-10-tec2">
+    <datedebut>213</datedebut>
+    <datefin>730</datefin>
+    <finit>Site2-culA-10-tec2_ini.xml</finit>
+    <nomsol>soil2</nomsol>
+    <fstation>sta2_sta.xml</fstation>
+    <fclim1>sta2.2009</fclim1>
+    <fclim2>sta2.2010</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec2_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site2-culB-10-tec2">
+    <datedebut>213</datedebut>
+    <datefin>730</datefin>
+    <finit>Site2-culB-10-tec2_ini.xml</finit>
+    <nomsol>soil2</nomsol>
+    <fstation>sta2_sta.xml</fstation>
+    <fclim1>sta2.2009</fclim1>
+    <fclim2>sta2.2010</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec2_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site2-culA-11-tec7">
+    <datedebut>213</datedebut>
+    <datefin>730</datefin>
+    <finit>Site2-culA-11-tec7_ini.xml</finit>
+    <nomsol>soil2</nomsol>
+    <fstation>sta2_sta.xml</fstation>
+    <fclim1>sta2.2010</fclim1>
+    <fclim2>sta2.2011</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec7_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site2-culB-11-tec7">
+    <datedebut>213</datedebut>
+    <datefin>730</datefin>
+    <finit>Site2-culB-11-tec7_ini.xml</finit>
+    <nomsol>soil2</nomsol>
+    <fstation>sta2_sta.xml</fstation>
+    <fclim1>sta2.2010</fclim1>
+    <fclim2>sta2.2011</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec7_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site2-culA-13-tec17">
+    <datedebut>214</datedebut>
+    <datefin>731</datefin>
+    <finit>Site2-culA-13-tec17_ini.xml</finit>
+    <nomsol>soil2</nomsol>
+    <fstation>sta2_sta.xml</fstation>
+    <fclim1>sta2.2012</fclim1>
+    <fclim2>sta2.2013</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec17_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site2-culB-13-tec17">
+    <datedebut>214</datedebut>
+    <datefin>731</datefin>
+    <finit>Site2-culB-13-tec17_ini.xml</finit>
+    <nomsol>soil2</nomsol>
+    <fstation>sta2_sta.xml</fstation>
+    <fclim1>sta2.2012</fclim1>
+    <fclim2>sta2.2013</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec17_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site2-culA-14-tec24">
+    <datedebut>213</datedebut>
+    <datefin>730</datefin>
+    <finit>Site2-culA-14-tec24_ini.xml</finit>
+    <nomsol>soil2</nomsol>
+    <fstation>sta2_sta.xml</fstation>
+    <fclim1>sta2.2013</fclim1>
+    <fclim2>sta2.2014</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec24_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site2-culB-14-tec24">
+    <datedebut>213</datedebut>
+    <datefin>730</datefin>
+    <finit>Site2-culB-14-tec24_ini.xml</finit>
+    <nomsol>soil2</nomsol>
+    <fstation>sta2_sta.xml</fstation>
+    <fclim1>sta2.2013</fclim1>
+    <fclim2>sta2.2014</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec24_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site2-culA-15-tec34">
+    <datedebut>213</datedebut>
+    <datefin>730</datefin>
+    <finit>Site2-culA-15-tec34_ini.xml</finit>
+    <nomsol>soil2</nomsol>
+    <fstation>sta2_sta.xml</fstation>
+    <fclim1>sta2.2014</fclim1>
+    <fclim2>sta2.2015</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec34_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site2-culB-15-tec34">
+    <datedebut>213</datedebut>
+    <datefin>730</datefin>
+    <finit>Site2-culB-15-tec34_ini.xml</finit>
+    <nomsol>soil2</nomsol>
+    <fstation>sta2_sta.xml</fstation>
+    <fclim1>sta2.2014</fclim1>
+    <fclim2>sta2.2015</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec34_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site3-culA-12-tec11">
+    <datedebut>213</datedebut>
+    <datefin>731</datefin>
+    <finit>Site3-culA-12-tec11_ini.xml</finit>
+    <nomsol>soil3</nomsol>
+    <fstation>sta3_sta.xml</fstation>
+    <fclim1>sta3.2011</fclim1>
+    <fclim2>sta3.2012</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec11_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site3-culB-12-tec11">
+    <datedebut>213</datedebut>
+    <datefin>731</datefin>
+    <finit>Site3-culB-12-tec11_ini.xml</finit>
+    <nomsol>soil3</nomsol>
+    <fstation>sta3_sta.xml</fstation>
+    <fclim1>sta3.2011</fclim1>
+    <fclim2>sta3.2012</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec11_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site3-culA-13-tec19">
+    <datedebut>214</datedebut>
+    <datefin>731</datefin>
+    <finit>Site3-culA-13-tec19_ini.xml</finit>
+    <nomsol>soil3</nomsol>
+    <fstation>sta3_sta.xml</fstation>
+    <fclim1>sta3.2012</fclim1>
+    <fclim2>sta3.2013</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec19_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site3-culB-13-tec19">
+    <datedebut>214</datedebut>
+    <datefin>731</datefin>
+    <finit>Site3-culB-13-tec19_ini.xml</finit>
+    <nomsol>soil3</nomsol>
+    <fstation>sta3_sta.xml</fstation>
+    <fclim1>sta3.2012</fclim1>
+    <fclim2>sta3.2013</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec19_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site3-culA-14-tec25">
+    <datedebut>213</datedebut>
+    <datefin>730</datefin>
+    <finit>Site3-culA-14-tec25_ini.xml</finit>
+    <nomsol>soil3</nomsol>
+    <fstation>sta3_sta.xml</fstation>
+    <fclim1>sta3.2013</fclim1>
+    <fclim2>sta3.2014</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec25_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site3-culB-14-tec25">
+    <datedebut>213</datedebut>
+    <datefin>730</datefin>
+    <finit>Site3-culB-14-tec25_ini.xml</finit>
+    <nomsol>soil3</nomsol>
+    <fstation>sta3_sta.xml</fstation>
+    <fclim1>sta3.2013</fclim1>
+    <fclim2>sta3.2014</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec25_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site3-culA-15-tec35">
+    <datedebut>213</datedebut>
+    <datefin>730</datefin>
+    <finit>Site3-culA-15-tec35_ini.xml</finit>
+    <nomsol>soil3</nomsol>
+    <fstation>sta3_sta.xml</fstation>
+    <fclim1>sta3.2014</fclim1>
+    <fclim2>sta3.2015</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec35_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site3-culB-15-tec35">
+    <datedebut>213</datedebut>
+    <datefin>730</datefin>
+    <finit>Site3-culB-15-tec35_ini.xml</finit>
+    <nomsol>soil3</nomsol>
+    <fstation>sta3_sta.xml</fstation>
+    <fclim1>sta3.2014</fclim1>
+    <fclim2>sta3.2015</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec35_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site4-culA-11-tec5">
+    <datedebut>213</datedebut>
+    <datefin>730</datefin>
+    <finit>Site4-culA-11-tec5_ini.xml</finit>
+    <nomsol>soil4</nomsol>
+    <fstation>sta4_sta.xml</fstation>
+    <fclim1>sta4.2010</fclim1>
+    <fclim2>sta4.2011</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec5_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site4-culB-11-tec5">
+    <datedebut>213</datedebut>
+    <datefin>730</datefin>
+    <finit>Site4-culB-11-tec5_ini.xml</finit>
+    <nomsol>soil4</nomsol>
+    <fstation>sta4_sta.xml</fstation>
+    <fclim1>sta4.2010</fclim1>
+    <fclim2>sta4.2011</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec5_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site5-culA-12-tec12">
+    <datedebut>213</datedebut>
+    <datefin>731</datefin>
+    <finit>Site5-culA-12-tec12_ini.xml</finit>
+    <nomsol>soil4</nomsol>
+    <fstation>sta4_sta.xml</fstation>
+    <fclim1>sta4.2011</fclim1>
+    <fclim2>sta4.2012</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec12_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site5-culB-12-tec12">
+    <datedebut>213</datedebut>
+    <datefin>731</datefin>
+    <finit>Site5-culB-12-tec12_ini.xml</finit>
+    <nomsol>soil4</nomsol>
+    <fstation>sta4_sta.xml</fstation>
+    <fclim1>sta4.2011</fclim1>
+    <fclim2>sta4.2012</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec12_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site6-culA-13-tec22">
+    <datedebut>214</datedebut>
+    <datefin>731</datefin>
+    <finit>Site6-culA-13-tec22_ini.xml</finit>
+    <nomsol>soil4</nomsol>
+    <fstation>sta4_sta.xml</fstation>
+    <fclim1>sta4.2012</fclim1>
+    <fclim2>sta4.2013</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec22_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site6-culB-13-tec22">
+    <datedebut>214</datedebut>
+    <datefin>731</datefin>
+    <finit>Site6-culB-13-tec22_ini.xml</finit>
+    <nomsol>soil4</nomsol>
+    <fstation>sta4_sta.xml</fstation>
+    <fclim1>sta4.2012</fclim1>
+    <fclim2>sta4.2013</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec22_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site7-culA-14-tec27">
+    <datedebut>213</datedebut>
+    <datefin>730</datefin>
+    <finit>Site7-culA-14-tec27_ini.xml</finit>
+    <nomsol>soil4</nomsol>
+    <fstation>sta4_sta.xml</fstation>
+    <fclim1>sta4.2013</fclim1>
+    <fclim2>sta4.2014</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec27_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site7-culB-14-tec27">
+    <datedebut>213</datedebut>
+    <datefin>730</datefin>
+    <finit>Site7-culB-14-tec27_ini.xml</finit>
+    <nomsol>soil4</nomsol>
+    <fstation>sta4_sta.xml</fstation>
+    <fclim1>sta4.2013</fclim1>
+    <fclim2>sta4.2014</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec27_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site8-culA-15-tec37">
+    <datedebut>213</datedebut>
+    <datefin>730</datefin>
+    <finit>Site8-culA-15-tec37_ini.xml</finit>
+    <nomsol>soil4</nomsol>
+    <fstation>sta4_sta.xml</fstation>
+    <fclim1>sta4.2014</fclim1>
+    <fclim2>sta4.2015</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec37_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site8-culB-15-tec37">
+    <datedebut>213</datedebut>
+    <datefin>730</datefin>
+    <finit>Site8-culB-15-tec37_ini.xml</finit>
+    <nomsol>soil4</nomsol>
+    <fstation>sta4_sta.xml</fstation>
+    <fclim1>sta4.2014</fclim1>
+    <fclim2>sta4.2015</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec37_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site9-culA-11-tec8">
+    <datedebut>213</datedebut>
+    <datefin>730</datefin>
+    <finit>Site9-culA-11-tec8_ini.xml</finit>
+    <nomsol>soil5</nomsol>
+    <fstation>sta5_sta.xml</fstation>
+    <fclim1>sta5.2010</fclim1>
+    <fclim2>sta5.2011</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec8_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site9-culB-11-tec8">
+    <datedebut>213</datedebut>
+    <datefin>730</datefin>
+    <finit>Site9-culB-11-tec8_ini.xml</finit>
+    <nomsol>soil5</nomsol>
+    <fstation>sta5_sta.xml</fstation>
+    <fclim1>sta5.2010</fclim1>
+    <fclim2>sta5.2011</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec8_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site9-culA-12-tec14">
+    <datedebut>213</datedebut>
+    <datefin>731</datefin>
+    <finit>Site9-culA-12-tec14_ini.xml</finit>
+    <nomsol>soil5</nomsol>
+    <fstation>sta5_sta.xml</fstation>
+    <fclim1>sta5.2011</fclim1>
+    <fclim2>sta5.2012</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec14_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site9-culB-12-tec14">
+    <datedebut>213</datedebut>
+    <datefin>731</datefin>
+    <finit>Site9-culB-12-tec14_ini.xml</finit>
+    <nomsol>soil5</nomsol>
+    <fstation>sta5_sta.xml</fstation>
+    <fclim1>sta5.2011</fclim1>
+    <fclim2>sta5.2012</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec14_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site9-culA-13-tec21">
+    <datedebut>214</datedebut>
+    <datefin>731</datefin>
+    <finit>Site9-culA-13-tec21_ini.xml</finit>
+    <nomsol>soil5</nomsol>
+    <fstation>sta5_sta.xml</fstation>
+    <fclim1>sta5.2012</fclim1>
+    <fclim2>sta5.2013</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec21_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site9-culB-13-tec21">
+    <datedebut>214</datedebut>
+    <datefin>731</datefin>
+    <finit>Site9-culB-13-tec21_ini.xml</finit>
+    <nomsol>soil5</nomsol>
+    <fstation>sta5_sta.xml</fstation>
+    <fclim1>sta5.2012</fclim1>
+    <fclim2>sta5.2013</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec21_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site9-culA-14-tec28">
+    <datedebut>213</datedebut>
+    <datefin>730</datefin>
+    <finit>Site9-culA-14-tec28_ini.xml</finit>
+    <nomsol>soil5</nomsol>
+    <fstation>sta5_sta.xml</fstation>
+    <fclim1>sta5.2013</fclim1>
+    <fclim2>sta5.2014</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec28_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site9-culB-14-tec28">
+    <datedebut>213</datedebut>
+    <datefin>730</datefin>
+    <finit>Site9-culB-14-tec28_ini.xml</finit>
+    <nomsol>soil5</nomsol>
+    <fstation>sta5_sta.xml</fstation>
+    <fclim1>sta5.2013</fclim1>
+    <fclim2>sta5.2014</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec28_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site9-culA-15-tec38">
+    <datedebut>213</datedebut>
+    <datefin>730</datefin>
+    <finit>Site9-culA-15-tec38_ini.xml</finit>
+    <nomsol>soil5</nomsol>
+    <fstation>sta5_sta.xml</fstation>
+    <fclim1>sta5.2014</fclim1>
+    <fclim2>sta5.2015</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec38_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site9-culB-15-tec38">
+    <datedebut>213</datedebut>
+    <datefin>730</datefin>
+    <finit>Site9-culB-15-tec38_ini.xml</finit>
+    <nomsol>soil5</nomsol>
+    <fstation>sta5_sta.xml</fstation>
+    <fclim1>sta5.2014</fclim1>
+    <fclim2>sta5.2015</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec38_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site10-culA-10-tec3">
+    <datedebut>213</datedebut>
+    <datefin>730</datefin>
+    <finit>Site10-culA-10-tec3_ini.xml</finit>
+    <nomsol>soil6</nomsol>
+    <fstation>sta6_sta.xml</fstation>
+    <fclim1>sta6.2009</fclim1>
+    <fclim2>sta6.2010</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec3_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site10-culB-10-tec3">
+    <datedebut>213</datedebut>
+    <datefin>730</datefin>
+    <finit>Site10-culB-10-tec3_ini.xml</finit>
+    <nomsol>soil6</nomsol>
+    <fstation>sta6_sta.xml</fstation>
+    <fclim1>sta6.2009</fclim1>
+    <fclim2>sta6.2010</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec3_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site10-culA-11-tec6">
+    <datedebut>213</datedebut>
+    <datefin>730</datefin>
+    <finit>Site10-culA-11-tec6_ini.xml</finit>
+    <nomsol>soil6</nomsol>
+    <fstation>sta6_sta.xml</fstation>
+    <fclim1>sta6.2010</fclim1>
+    <fclim2>sta6.2011</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec6_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site10-culB-11-tec6">
+    <datedebut>213</datedebut>
+    <datefin>730</datefin>
+    <finit>Site10-culB-11-tec6_ini.xml</finit>
+    <nomsol>soil6</nomsol>
+    <fstation>sta6_sta.xml</fstation>
+    <fclim1>sta6.2010</fclim1>
+    <fclim2>sta6.2011</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec6_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site10-culA-13-tec15">
+    <datedebut>214</datedebut>
+    <datefin>731</datefin>
+    <finit>Site10-culA-13-tec15_ini.xml</finit>
+    <nomsol>soil6</nomsol>
+    <fstation>sta6_sta.xml</fstation>
+    <fclim1>sta6.2012</fclim1>
+    <fclim2>sta6.2013</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec15_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site10-culB-13-tec15">
+    <datedebut>214</datedebut>
+    <datefin>731</datefin>
+    <finit>Site10-culB-13-tec15_ini.xml</finit>
+    <nomsol>soil6</nomsol>
+    <fstation>sta6_sta.xml</fstation>
+    <fclim1>sta6.2012</fclim1>
+    <fclim2>sta6.2013</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec15_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site10-culA-14-tec23">
+    <datedebut>213</datedebut>
+    <datefin>730</datefin>
+    <finit>Site10-culA-14-tec23_ini.xml</finit>
+    <nomsol>soil6</nomsol>
+    <fstation>sta6_sta.xml</fstation>
+    <fclim1>sta6.2013</fclim1>
+    <fclim2>sta6.2014</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec23_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site10-culB-14-tec23">
+    <datedebut>213</datedebut>
+    <datefin>730</datefin>
+    <finit>Site10-culB-14-tec23_ini.xml</finit>
+    <nomsol>soil6</nomsol>
+    <fstation>sta6_sta.xml</fstation>
+    <fclim1>sta6.2013</fclim1>
+    <fclim2>sta6.2014</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec23_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site10-culA-15-tec33">
+    <datedebut>213</datedebut>
+    <datefin>730</datefin>
+    <finit>Site10-culA-15-tec33_ini.xml</finit>
+    <nomsol>soil6</nomsol>
+    <fstation>sta6_sta.xml</fstation>
+    <fclim1>sta6.2014</fclim1>
+    <fclim2>sta6.2015</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec33_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site10-culB-15-tec33">
+    <datedebut>213</datedebut>
+    <datefin>730</datefin>
+    <finit>Site10-culB-15-tec33_ini.xml</finit>
+    <nomsol>soil6</nomsol>
+    <fstation>sta6_sta.xml</fstation>
+    <fclim1>sta6.2014</fclim1>
+    <fclim2>sta6.2015</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec33_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site11-culA-10-tec1">
+    <datedebut>213</datedebut>
+    <datefin>730</datefin>
+    <finit>Site11-culA-10-tec1_ini.xml</finit>
+    <nomsol>soil7</nomsol>
+    <fstation>sta7_sta.xml</fstation>
+    <fclim1>sta7.2009</fclim1>
+    <fclim2>sta7.2010</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec1_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site11-culB-10-tec1">
+    <datedebut>213</datedebut>
+    <datefin>730</datefin>
+    <finit>Site11-culB-10-tec1_ini.xml</finit>
+    <nomsol>soil7</nomsol>
+    <fstation>sta7_sta.xml</fstation>
+    <fclim1>sta7.2009</fclim1>
+    <fclim2>sta7.2010</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec1_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site11-culA-11-tec4">
+    <datedebut>213</datedebut>
+    <datefin>730</datefin>
+    <finit>Site11-culA-11-tec4_ini.xml</finit>
+    <nomsol>soil7</nomsol>
+    <fstation>sta7_sta.xml</fstation>
+    <fclim1>sta7.2010</fclim1>
+    <fclim2>sta7.2011</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec4_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site11-culB-11-tec4">
+    <datedebut>213</datedebut>
+    <datefin>730</datefin>
+    <finit>Site11-culB-11-tec4_ini.xml</finit>
+    <nomsol>soil7</nomsol>
+    <fstation>sta7_sta.xml</fstation>
+    <fclim1>sta7.2010</fclim1>
+    <fclim2>sta7.2011</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec4_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site11-culA-12-tec9">
+    <datedebut>213</datedebut>
+    <datefin>731</datefin>
+    <finit>Site11-culA-12-tec9_ini.xml</finit>
+    <nomsol>soil7</nomsol>
+    <fstation>sta7_sta.xml</fstation>
+    <fclim1>sta7.2011</fclim1>
+    <fclim2>sta7.2012</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec9_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site11-culB-12-tec9">
+    <datedebut>213</datedebut>
+    <datefin>731</datefin>
+    <finit>Site11-culB-12-tec9_ini.xml</finit>
+    <nomsol>soil7</nomsol>
+    <fstation>sta7_sta.xml</fstation>
+    <fclim1>sta7.2011</fclim1>
+    <fclim2>sta7.2012</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec9_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site11-culA-13-tec16">
+    <datedebut>214</datedebut>
+    <datefin>731</datefin>
+    <finit>Site11-culA-13-tec16_ini.xml</finit>
+    <nomsol>soil7</nomsol>
+    <fstation>sta7_sta.xml</fstation>
+    <fclim1>sta7.2012</fclim1>
+    <fclim2>sta7.2013</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec16_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site11-culB-13-tec16">
+    <datedebut>214</datedebut>
+    <datefin>731</datefin>
+    <finit>Site11-culB-13-tec16_ini.xml</finit>
+    <nomsol>soil7</nomsol>
+    <fstation>sta7_sta.xml</fstation>
+    <fclim1>sta7.2012</fclim1>
+    <fclim2>sta7.2013</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec16_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site11-culA-14-tec30">
+    <datedebut>213</datedebut>
+    <datefin>730</datefin>
+    <finit>Site11-culA-14-tec30_ini.xml</finit>
+    <nomsol>soil7</nomsol>
+    <fstation>sta7_sta.xml</fstation>
+    <fclim1>sta7.2013</fclim1>
+    <fclim2>sta7.2014</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec30_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site11-culB-14-tec30">
+    <datedebut>213</datedebut>
+    <datefin>730</datefin>
+    <finit>Site11-culB-14-tec30_ini.xml</finit>
+    <nomsol>soil7</nomsol>
+    <fstation>sta7_sta.xml</fstation>
+    <fclim1>sta7.2013</fclim1>
+    <fclim2>sta7.2014</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec30_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site11-culA-15-tec32">
+    <datedebut>213</datedebut>
+    <datefin>730</datefin>
+    <finit>Site11-culA-15-tec32_ini.xml</finit>
+    <nomsol>soil7</nomsol>
+    <fstation>sta7_sta.xml</fstation>
+    <fclim1>sta7.2014</fclim1>
+    <fclim2>sta7.2015</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec32_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site11-culB-15-tec32">
+    <datedebut>213</datedebut>
+    <datefin>730</datefin>
+    <finit>Site11-culB-15-tec32_ini.xml</finit>
+    <nomsol>soil7</nomsol>
+    <fstation>sta7_sta.xml</fstation>
+    <fclim1>sta7.2014</fclim1>
+    <fclim2>sta7.2015</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec32_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site12-culA-12-tec10">
+    <datedebut>213</datedebut>
+    <datefin>731</datefin>
+    <finit>Site12-culA-12-tec10_ini.xml</finit>
+    <nomsol>soil8</nomsol>
+    <fstation>sta8_sta.xml</fstation>
+    <fclim1>sta8.2011</fclim1>
+    <fclim2>sta8.2012</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec10_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site12-culB-12-tec10">
+    <datedebut>213</datedebut>
+    <datefin>731</datefin>
+    <finit>Site12-culB-12-tec10_ini.xml</finit>
+    <nomsol>soil8</nomsol>
+    <fstation>sta8_sta.xml</fstation>
+    <fclim1>sta8.2011</fclim1>
+    <fclim2>sta8.2012</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec10_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site12-culA-13-tec20">
+    <datedebut>214</datedebut>
+    <datefin>731</datefin>
+    <finit>Site12-culA-13-tec20_ini.xml</finit>
+    <nomsol>soil8</nomsol>
+    <fstation>sta8_sta.xml</fstation>
+    <fclim1>sta8.2012</fclim1>
+    <fclim2>sta8.2013</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec20_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site12-culB-13-tec20">
+    <datedebut>214</datedebut>
+    <datefin>731</datefin>
+    <finit>Site12-culB-13-tec20_ini.xml</finit>
+    <nomsol>soil8</nomsol>
+    <fstation>sta8_sta.xml</fstation>
+    <fclim1>sta8.2012</fclim1>
+    <fclim2>sta8.2013</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec20_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site12-culA-14-tec26">
+    <datedebut>213</datedebut>
+    <datefin>730</datefin>
+    <finit>Site12-culA-14-tec26_ini.xml</finit>
+    <nomsol>soil8</nomsol>
+    <fstation>sta8_sta.xml</fstation>
+    <fclim1>sta8.2013</fclim1>
+    <fclim2>sta8.2014</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec26_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site12-culB-14-tec26">
+    <datedebut>213</datedebut>
+    <datefin>730</datefin>
+    <finit>Site12-culB-14-tec26_ini.xml</finit>
+    <nomsol>soil8</nomsol>
+    <fstation>sta8_sta.xml</fstation>
+    <fclim1>sta8.2013</fclim1>
+    <fclim2>sta8.2014</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec26_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site12-culA-15-tec36">
+    <datedebut>213</datedebut>
+    <datefin>730</datefin>
+    <finit>Site12-culA-15-tec36_ini.xml</finit>
+    <nomsol>soil8</nomsol>
+    <fstation>sta8_sta.xml</fstation>
+    <fclim1>sta8.2014</fclim1>
+    <fclim2>sta8.2015</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec36_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site12-culB-15-tec36">
+    <datedebut>213</datedebut>
+    <datefin>730</datefin>
+    <finit>Site12-culB-15-tec36_ini.xml</finit>
+    <nomsol>soil8</nomsol>
+    <fstation>sta8_sta.xml</fstation>
+    <fclim1>sta8.2014</fclim1>
+    <fclim2>sta8.2015</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec36_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site12-culA-16-tec40">
+    <datedebut>213</datedebut>
+    <datefin>731</datefin>
+    <finit>Site12-culA-16-tec40_ini.xml</finit>
+    <nomsol>soil8</nomsol>
+    <fstation>sta8_sta.xml</fstation>
+    <fclim1>sta8.2015</fclim1>
+    <fclim2>sta8.2016</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec40_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+  <usm nom="Site12-culB-16-tec40">
+    <datedebut>213</datedebut>
+    <datefin>731</datefin>
+    <finit>Site12-culB-16-tec40_ini.xml</finit>
+    <nomsol>soil8</nomsol>
+    <fstation>sta8_sta.xml</fstation>
+    <fclim1>sta8.2015</fclim1>
+    <fclim2>sta8.2016</fclim2>
+    <culturean>0</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>wheat_plt.xml</fplt>
+      <ftec>tec40_tec.xml</ftec>
+      <flai>null</flai>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+    </plante>
+  </usm>
+</usms>
+

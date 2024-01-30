@@ -1,0 +1,29 @@
+:nbplantes:
+1
+:plante:
+plt
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+:densinitial:
+0.0 0.0 0.0 0.0 0.0 
+:plante:
+
+
+
+
+
+
+
+:densinitial:
+     
+:hinit:
+0.1 8.9 14.9 19.6 0 
+:NO3init:
+9.72 9.72 3.89 11.7 0.0 
+:NH4init:
+0.0 0.0 0.0 0.0 0.0 
+

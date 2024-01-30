@@ -1,0 +1,9 @@
+ilevs
+iamfs
+ilaxs
+imats
+masec(n)
+chargefruit
+mafruit
+QNplante
+CNgrain
